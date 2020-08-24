@@ -4,7 +4,7 @@ The visualization and classification used in this work was from the popular Iris
 
 http://archive.ics.uci.edu/ml/datasets/Iris
 
-# The columns Label as as follows
+# The columns Label as follows
 - 1st Feature -- Sepal Length of Plants in Centimeters
 - 2nd Feature -- Sepal Width of Plants in Centimeters
 - 3rd Feature -- Petal Length of Plants in Centimeters
