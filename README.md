@@ -15,7 +15,10 @@ http://archive.ics.uci.edu/ml/datasets/Iris
             - -- Iris Virginica
 #
 
-The Classification Used for the Iris dataset was the K-Nearest Neighbours algorithm
+The Classification Used for the Iris dataset was the K-Nearest Neighbours algorithm and the Logistic
 n_neighbours = 5 
 
-The Accuracy Score gotten from the model = 96.67%
+The Accuracy Score (KNN) gotten from the model = 96.67%
+The Logistic model produced an accuracy Score of 97.37%
+
+
